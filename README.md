@@ -15,11 +15,6 @@ A real-time chat application built with the MERN stack.
 - **React.js**: Frontend library
 - **Node.js**: Backend runtime environment
 
-## Preview
-
-![image]([https://alyshariff.netlify.app/static/media/conversation.354a931554ce1853c126.png])
-![image]([https://alyshariff.netlify.app/static/media/conversation.354a931554ce1853c126.png])
-
 ## Installation
 
 1. **Clone the repository**:
